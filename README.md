@@ -1,9 +1,9 @@
 <h1 align="center">Hi 👋, I'm Thien Nguyen</h1>
 <h3 align="center">A passionate mobile engineer from Vietnam</h3>
 
-- 🌱 I’m proficient in building **Android**, **iOS** applications with **React Native**.
+- 🌱 I’m proficient in building **Android**, **iOS** applications with **React Native** and **KMM**.
 - 👯 I’m looking to collaborate on developing open source projects.
-- 💬 Ask me about **React-Native, Android, iOS, Typescript, Javascript**.
+- 💬 Ask me about **React-Native, KMM, Android, iOS, Kotlin, Typescript, Javascript**.
 - 📫 How to reach me **thiensmail96@gmail.com**.
 
 <p align="left">
